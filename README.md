@@ -1,4 +1,4 @@
-# Dara Science Bootcamp project
+# Data Science Bootcamp project
 All my data projects in the bootcamp
 - Google Sheets
 - SQL
